@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
-  "start": "next start"
+    "start": "next start"
   },
   "dependencies": {
+    "daisyui": "^5.3.7",
     "next": "15.5.5",
     "react": "19.1.0",
     "react-dom": "19.1.0"
