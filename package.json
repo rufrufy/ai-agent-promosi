@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.75.1",
     "daisyui": "^5.3.7",
     "next": "15.5.5",
     "react": "19.1.0",
@@ -15,7 +16,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.14",
-    "@types/node": "^20",
+    "@types/node": "^20.19.22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.21",
